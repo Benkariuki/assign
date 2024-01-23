@@ -1,0 +1,36 @@
+form{ background-color: aqua;
+    height: 60%;
+    width: 70%;
+    margin: auto;
+    padding-left:30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius:1px;}
+
+legend { background-color: white;
+        color: black;
+        font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+}
+
+
+
+body{ background-color: beige}
+
+textarea { padding-left: 30px;}
+
+
+
+ button {    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+background-color: darkgray;
+     margin-left: 170px;}
+
+button:hover{ background-color: crimson}
+textarea{ padding-left: 30px}

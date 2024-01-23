@@ -1,0 +1,47 @@
+P   {color: black;
+    font-size:30px ;
+    font-weight: bolder;
+
+}
+
+img{
+    width: 350px;
+    height:400px;
+}
+#main{
+    display: flex;
+    background-color: darksalmon;
+    padding-top: 30px;
+}
+
+
+
+.division1{
+    background-color: darkgray
+}
+.division2{
+    background-color: yellow;
+}
+.division3{
+    background-color: aqua;
+}
+.division4{
+    background-color: crimson;
+}
+
+
+
+
+
+.heading1{
+    background-color: darkgray}
+
+.heading2{
+    background-color: darksalmon;
+}
+
+
+.imageparagraph{
+                 padding-left: 30px;
+                   display: flex;
+                   margin-left: 20px }
